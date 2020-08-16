@@ -4,4 +4,4 @@
 > **Maybe, I will remember these time of coding .**
 
 ## Step 1:
-You can learn or borrow my code, but remember, please don’t copy, copyright Pansq .
+You can learn or borrow my code, but remember, please don’t plagiarism, copyright Pansq .
