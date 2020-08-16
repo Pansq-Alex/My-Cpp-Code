@@ -1,7 +1,7 @@
 # My C++ Code
 > __This is a repository to store my C++ code .__
 
-> **Maybe, I will remember these time of coding .**
+> **Maybe, I will remember these time of coding when I AFO.**
 ---------------
 
 ## Step 1:
