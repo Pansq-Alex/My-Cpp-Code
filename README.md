@@ -1,2 +1,2 @@
 # My C++ Code
-> This is a repository to store my C++ code.
+> This is a repository to store my $C++$ code.
