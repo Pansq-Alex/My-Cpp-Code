@@ -10,4 +10,6 @@ You can learn or borrow my code, but remember, please don’t plagiarism, copyri
 If there is any problem with my code, please contact me in time, thank you .
 
 ---------------
+
 ## Step 2:
+My code is distributed on various online judges. If I violate the rules of an online judge, please forgive me.
